@@ -1,7 +1,7 @@
 {
   "name": "TheDoctorTTV's Tools",
   "id": "com.thedoctorttv.tools-listing",
-  "url": "https://tools.thetimevortex.net/index.json",
+  "url": "https://vpm.thetimevortex.net/index.json",
   "author": {
     "email": "thedoctor@thetimevortex.net",
     "name": "thedoctorttv",
@@ -9,7 +9,7 @@
   },
   "description": "VPM listing for TheDoctorTTV's Tools, a collection of tools and utilities for VRChat created by TheDoctorTTV.",
   "infoLink": {
-    "url": "https://github.com/thedoctorttv/TheDoctors-Tools",
+    "url": "https://github.com/thedoctorttv/thedoctors-tools",
     "text": "View on GitHub"
   },
   "bannerUrl": "https://cdn.thetimevortex.net/TheTimeVortex%20VRC%20Group.jpg",
