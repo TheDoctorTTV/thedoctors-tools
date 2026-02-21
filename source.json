@@ -1,28 +1,20 @@
 {
-    "name":"Example Listing",
-    "id":"com.vrchat.example-listing",
-    "url":"https://vrchat-community.github.io/template-package-listing/index.json",
-    "author":{
-        "email":"developer@vrchat.com",
-        "name":"VRChat",
-        "url":"https://hello.vrchat.com"
-    },
-    "description":"Example listing of VRChat packages",
-    "infoLink":{
-        "url":"http://github.com/vrchat-community/template-package-listing",
-        "text":"View on GitHub"
-    },
-    "bannerUrl":"banner.png",
-    "githubRepos":[
-        "vrchat-community/clientsim"
-    ],
-    "packages":[
-        {
-            "name":"com.vrchat.udonsharp",
-            "releases":[
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.7/com.vrchat.UdonSharp.zip",
-                "https://github.com/vrchat-community/UdonSharp/releases/download/1.1.6/com.vrchat.UdonSharp-1.1.6.zip"
-            ]
-        }
-    ]
+  "name": "voicemodemenu",
+  "id": "com.thedoctorttv.voicemodemenu-listing",
+  "url": "https://thedoctorttv.github.io/TheDoctors-Tools/index.json",
+  "author": {
+    "email": "thedoctor@thetimevortex.net",
+    "name": "thedoctorttv",
+    "url": "https://github.com/thedoctorttv"
+  },
+  "description": "VPM listing for voicemodemenu",
+  "infoLink": {
+    "url": "https://github.com/thedoctorttv/TheDoctors-Tools",
+    "text": "View on GitHub"
+  },
+  "bannerUrl": "https://cdn.thetimevortex.net/TheTimeVortex%20VRC%20Group.jpg",
+  "githubRepos": [
+    "thedoctorttv/TheDoctors-Tools"
+  ],
+  "packages": []
 }

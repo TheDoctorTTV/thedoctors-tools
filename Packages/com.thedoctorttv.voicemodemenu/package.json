@@ -1,0 +1,13 @@
+{
+  "name": "com.thedoctorttv.voicemodemenu",
+  "displayName": "Voice Mode Menu",
+  "version": "1.0.0",
+  "unity": "2019.4",
+  "description": "UdonSharp voice mode controller with whisper/talk/shout and radio channel controls for VRChat worlds.",
+  "author": {
+    "name": "thedoctorttv",
+    "email": "thedoctor@thetimevortex.net",
+    "url": "https://github.com/thedoctorttv"
+  },
+  "license": "MIT"
+}
