@@ -1,10 +1,7 @@
 # TheDoctors-Tools VPM Listing
 
-VPM repository listing for TheDoctor's Unity/VRC tools, currently just
-'VoiceModeMenu'.
+VPM repository listing for TheDoctor's Unity/VRC tools.
 
 ## Repository Listing URL
 
-Use this URL in VRChat Creator Companion (VCC):
-
-https://thedoctortools.thetimevortex.net/
+Add this repository into VRChat Creator Companion (VCC): [TheDoctors Tools VPM Listing](https://thedoctortools.thetimevortex.net/).
