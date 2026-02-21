@@ -7,4 +7,4 @@ VPM repository listing for TheDoctor's Unity/VRC tools, currently just
 
 Use this URL in VRChat Creator Companion (VCC):
 
-`https://thedoctortools.thetimevortex.net/`
+https://thedoctortools.thetimevortex.net/
