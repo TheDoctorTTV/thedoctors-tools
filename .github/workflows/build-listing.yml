@@ -49,6 +49,9 @@ jobs:
         run: ${{env.pathToCi}}/build.cmd BuildMultiPackageListing --root ${{env.pathToCi}} --list-publish-directory $GITHUB_WORKSPACE/${{env.listPublishDirectory}}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Write custom domain CNAME
+        run: echo "vpm.thetimevortex.net" > $GITHUB_WORKSPACE/${{env.listPublishDirectory}}/CNAME
  
       - name: Setup Pages
         uses: actions/configure-pages@v5
